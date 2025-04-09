@@ -12,6 +12,7 @@ Below is the comparison between the tools:
 
 **Which One to Choose?
 **
+
 Use Kapstan if you want AI-driven Terraform automation and optimization.
 
 Use Brainboard if you prefer a visual approach to designing and deploying Terraform infrastructure.
