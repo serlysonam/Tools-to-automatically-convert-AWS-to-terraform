@@ -10,8 +10,7 @@ Below is the comparison between the tools:
 ![image](https://github.com/user-attachments/assets/5a959535-8544-45de-a4e4-7edfb9a00314)
 
 
-**Which One to Choose?
-**
+**Which One to Choose?**
 
 Use Kapstan if you want AI-driven Terraform automation and optimization.
 
